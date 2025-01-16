@@ -1,1 +1,1 @@
-#Hello Git!for Fast-forward
+#Hello Git!for Fast-forward and now use ThreeMerge
